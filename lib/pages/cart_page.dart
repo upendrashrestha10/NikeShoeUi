@@ -20,7 +20,7 @@ class CartPage extends StatelessWidget {
             Text("My Cart", 
             style: TextStyle(
               fontWeight: FontWeight.bold,
-              fontSize: 24,
+              fontSize: 25,
             ),),
 
             SizedBox(height: 10,),
